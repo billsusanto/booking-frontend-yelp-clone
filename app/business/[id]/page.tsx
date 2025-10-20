@@ -110,7 +110,7 @@ export default function BusinessDetailPage() {
         <div className="text-center">
           <div className="text-6xl mb-4">🔍</div>
           <h2 className="text-2xl font-bold text-neutral-900 mb-2">Business not found</h2>
-          <p className="text-neutral-600">The business you're looking for doesn't exist.</p>
+          <p className="text-neutral-600">The business you&apos;re looking for doesn&apos;t exist.</p>
         </div>
       </div>
     )
