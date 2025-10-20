@@ -102,10 +102,11 @@ function ListingsContent() {
                 size="medium"
                 onClick={() => setShowFilters(!showFilters)}
                 className="md:hidden"
+                aria-label="Toggle filters"
               >
                 <SlidersHorizontal className="w-5 h-5" />
                 {activeFilterCount > 0 && (
-                  <Badge variant="primary" className="ml-2">
+                  <Badge variant="info" className="ml-2" aria-label={`${activeFilterCount} active filters`}>
                     {activeFilterCount}
                   </Badge>
                 )}
