@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "name": "Café Lumière",
+    "category": "Cafe",
+    "rating": 4.7,
+    "reviews": 238,
+    "price": "$$",
+    "images": [
+      "https://images.unsplash.com/photo-1554118811-1e0d58224f24",
+      "https://images.unsplash.com/photo-1442512595331-e89e73853f31",
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb"
+    ],
+    "description": "Cozy cafe with artisan coffee and pastries. Perfect for a morning pick-me-up or afternoon break with friends.",
+    "location": "Irvine, CA",
+    "address": "123 Main Street, Irvine, CA 92618",
+    "distance": "1.2 miles",
+    "hours": "8am–8pm",
+    "phone": "(949) 555-0123",
+    "website": "https://cafelumiere.example.com",
+    "amenities": ["WiFi", "Outdoor Seating", "Takeout", "Wheelchair Accessible"],
+    "availableSlots": ["10:00", "11:00", "13:00", "15:00", "16:00", "17:00"],
+    "featured": true,
+    "reviewsList": [
+      {
+        "id": 1,
+        "userName": "Sarah M.",
+        "userAvatar": "SM",
+        "rating": 5,
+        "date": "2024-01-15",
+        "text": "Amazing coffee and the ambiance is perfect for working remotely. The staff is incredibly friendly!"
+      },
+      {
+        "id": 2,
+        "userName": "John D.",
+        "userAvatar": "JD",
+        "rating": 4,
+        "date": "2024-01-10",
+        "text": "Great pastries and coffee. Can get a bit crowded during peak hours, but worth the wait."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Serenity Spa & Wellness",
+    "category": "Spa",
+    "rating": 4.9,
+    "reviews": 412,
+    "price": "$$$",
+    "images": [
+      "https://images.unsplash.com/photo-1540555700478-4be289fbecef",
+      "https://images.unsplash.com/photo-1544161515-4ab6ce6db874",
+      "https://images.unsplash.com/photo-1519415510236-718bdfcd89c8"
+    ],
+    "description": "Luxury spa offering massage therapy, facials, and holistic wellness treatments in a tranquil environment.",
+    "location": "Newport Beach, CA",
+    "address": "456 Pacific Coast Highway, Newport Beach, CA 92663",
+    "distance": "3.5 miles",
+    "hours": "9am–9pm",
+    "phone": "(949) 555-0456",
+    "website": "https://serenityspa.example.com",
+    "amenities": ["Parking", "Couples Rooms", "Sauna", "Steam Room", "Relaxation Lounge"],
+    "availableSlots": ["09:00", "10:30", "12:00", "14:00", "16:00", "18:00"],
+    "featured": true,
+    "reviewsList": [
+      {
+        "id": 3,
+        "userName": "Emily R.",
+        "userAvatar": "ER",
+        "rating": 5,
+        "date": "2024-01-18",
+        "text": "Best spa experience I've ever had! The deep tissue massage was incredible and the staff is so professional."
+      },
+      {
+        "id": 4,
+        "userName": "Michael T.",
+        "userAvatar": "MT",
+        "rating": 5,
+        "date": "2024-01-12",
+        "text": "Absolutely worth every penny. The facility is pristine and the treatments are top-notch."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "The Oceanview Restaurant",
+    "category": "Restaurant",
+    "rating": 4.6,
+    "reviews": 567,
+    "price": "$$$$",
+    "images": [
+      "https://images.unsplash.com/photo-1414235077428-338989a2e8c0",
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+      "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c"
+    ],
+    "description": "Fine dining with spectacular ocean views. Featuring fresh seafood and contemporary American cuisine.",
+    "location": "Laguna Beach, CA",
+    "address": "789 Ocean Boulevard, Laguna Beach, CA 92651",
+    "distance": "8.2 miles",
+    "hours": "11am–10pm",
+    "phone": "(949) 555-0789",
+    "website": "https://oceanviewrestaurant.example.com",
+    "amenities": ["Valet Parking", "Full Bar", "Ocean View", "Private Dining", "Live Music"],
+    "availableSlots": ["11:30", "12:00", "13:00", "17:30", "18:00", "19:00", "20:00"],
+    "featured": true,
+    "reviewsList": [
+      {
+        "id": 5,
+        "userName": "David L.",
+        "userAvatar": "DL",
+        "rating": 5,
+        "date": "2024-01-20",
+        "text": "Incredible dining experience! The sunset views paired with amazing food made for a perfect anniversary dinner."
+      },
+      {
+        "id": 6,
+        "userName": "Jennifer K.",
+        "userAvatar": "JK",
+        "rating": 4,
+        "date": "2024-01-16",
+        "text": "Beautiful restaurant with excellent service. The seafood is fresh and perfectly prepared."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "FitLife Gym & Training",
+    "category": "Gym",
+    "rating": 4.5,
+    "reviews": 289,
+    "price": "$$",
+    "images": [
+      "https://images.unsplash.com/photo-1534438327276-14e5300c3a48",
+      "https://images.unsplash.com/photo-1571902943202-507ec2618e8f",
+      "https://images.unsplash.com/photo-1540497077202-7c8a3999166f"
+    ],
+    "description": "State-of-the-art fitness facility with personal training, group classes, and modern equipment.",
+    "location": "Irvine, CA",
+    "address": "321 Fitness Lane, Irvine, CA 92620",
+    "distance": "2.1 miles",
+    "hours": "5am–11pm",
+    "phone": "(949) 555-0321",
+    "website": "https://fitlifegym.example.com",
+    "amenities": ["24/7 Access", "Showers", "Lockers", "Personal Training", "Group Classes", "Pool"],
+    "availableSlots": ["06:00", "07:00", "09:00", "12:00", "17:00", "18:00", "19:00"],
+    "featured": false,
+    "reviewsList": [
+      {
+        "id": 7,
+        "userName": "Alex P.",
+        "userAvatar": "AP",
+        "rating": 5,
+        "date": "2024-01-14",
+        "text": "Best gym in the area! Clean facilities, great equipment, and the trainers are knowledgeable and motivating."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Sunset Yoga Studio",
+    "category": "Wellness",
+    "rating": 4.8,
+    "reviews": 156,
+    "price": "$$",
+    "images": [
+      "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b",
+      "https://images.unsplash.com/photo-1506126613408-eca07ce68773",
+      "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0"
+    ],
+    "description": "Peaceful yoga studio offering various styles from beginner to advanced, plus meditation classes.",
+    "location": "Costa Mesa, CA",
+    "address": "654 Zen Avenue, Costa Mesa, CA 92626",
+    "distance": "4.7 miles",
+    "hours": "6am–8pm",
+    "phone": "(949) 555-0654",
+    "website": "https://sunsetyoga.example.com",
+    "amenities": ["Mat Rental", "Showers", "Retail Shop", "Tea Bar", "Outdoor Classes"],
+    "availableSlots": ["06:00", "08:00", "10:00", "12:00", "17:00", "18:30"],
+    "featured": false,
+    "reviewsList": [
+      {
+        "id": 8,
+        "userName": "Lisa W.",
+        "userAvatar": "LW",
+        "rating": 5,
+        "date": "2024-01-19",
+        "text": "Such a welcoming and peaceful space. The instructors are amazing and classes are perfect for all levels."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "The Brasserie Kitchen",
+    "category": "Restaurant",
+    "rating": 4.4,
+    "reviews": 342,
+    "price": "$$$",
+    "images": [
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de",
+      "https://images.unsplash.com/photo-1552566626-52f8b828add9",
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4"
+    ],
+    "description": "French-inspired bistro serving classic dishes with a modern twist. Extensive wine selection.",
+    "location": "Irvine, CA",
+    "address": "987 Culinary Court, Irvine, CA 92614",
+    "distance": "1.8 miles",
+    "hours": "11am–10pm",
+    "phone": "(949) 555-0987",
+    "website": "https://brasserie.example.com",
+    "amenities": ["Outdoor Seating", "Full Bar", "Happy Hour", "Private Events"],
+    "availableSlots": ["11:30", "12:00", "13:00", "18:00", "19:00", "20:00"],
+    "featured": false,
+    "reviewsList": [
+      {
+        "id": 9,
+        "userName": "Robert F.",
+        "userAvatar": "RF",
+        "rating": 4,
+        "date": "2024-01-17",
+        "text": "Solid French bistro with authentic flavors. The steak frites is excellent!"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Urban Nail Lounge",
+    "category": "Salon",
+    "rating": 4.6,
+    "reviews": 201,
+    "price": "$$",
+    "images": [
+      "https://images.unsplash.com/photo-1604654894610-df63bc536371",
+      "https://images.unsplash.com/photo-1519415510236-718bdfcd89c8",
+      "https://images.unsplash.com/photo-1560066984-138dadb4c035"
+    ],
+    "description": "Upscale nail salon offering manicures, pedicures, and nail art in a chic, relaxing environment.",
+    "location": "Irvine, CA",
+    "address": "147 Beauty Boulevard, Irvine, CA 92617",
+    "distance": "2.4 miles",
+    "hours": "9am–7pm",
+    "phone": "(949) 555-0147",
+    "website": "https://urbannail.example.com",
+    "amenities": ["Walk-ins Welcome", "Organic Products", "Massage Chairs", "Beverages"],
+    "availableSlots": ["09:00", "10:00", "11:00", "13:00", "14:00", "15:00", "16:00"],
+    "featured": false,
+    "reviewsList": [
+      {
+        "id": 10,
+        "userName": "Amanda S.",
+        "userAvatar": "AS",
+        "rating": 5,
+        "date": "2024-01-13",
+        "text": "Love this place! Clean, professional, and they do beautiful nail art. Highly recommend!"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "The Grand Hotel & Suites",
+    "category": "Hotel",
+    "rating": 4.7,
+    "reviews": 678,
+    "price": "$$$$",
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945",
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b",
+      "https://images.unsplash.com/photo-1584132967334-10e028bd69f7"
+    ],
+    "description": "Luxury hotel featuring spacious rooms, rooftop pool, spa, and fine dining restaurant.",
+    "location": "Newport Beach, CA",
+    "address": "555 Resort Drive, Newport Beach, CA 92660",
+    "distance": "4.9 miles",
+    "hours": "24/7",
+    "phone": "(949) 555-0555",
+    "website": "https://grandhotel.example.com",
+    "amenities": ["Pool", "Spa", "Restaurant", "Valet Parking", "Concierge", "Business Center"],
+    "availableSlots": ["Check-in: 3:00 PM", "Check-out: 11:00 AM"],
+    "featured": true,
+    "reviewsList": [
+      {
+        "id": 11,
+        "userName": "Thomas H.",
+        "userAvatar": "TH",
+        "rating": 5,
+        "date": "2024-01-21",
+        "text": "Exceptional service and beautiful property. The rooftop pool has amazing views!"
+      }
+    ]
+  }
+]
