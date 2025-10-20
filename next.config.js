@@ -8,19 +8,20 @@ const nextConfig = {
     unoptimized: true,
   },
   
-  // Static export for Netlify
-  output: 'export',
-  distDir: 'out',
+  // Netlify handles Next.js builds automatically
+  // output: 'export', // Disabled to support dynamic routes with client components
+  // distDir: 'out',
   
   // Disable TypeScript errors during build (warnings only)
   typescript: {
     ignoreBuildErrors: false,
   },
-  
+
   // Disable ESLint errors during build (warnings only)
   eslint: {
     ignoreDuringBuilds: false,
   },
+
   
   // Optimize build performance
   swcMinify: true,
